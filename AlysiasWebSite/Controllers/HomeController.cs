@@ -23,6 +23,26 @@ namespace AlysiasWebSite.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Coding()
+        {
+            return View();
+        }
+
+        public IActionResult Essays()
+        {
+            return View();
+        }
+
+        public IActionResult ReadingList()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
